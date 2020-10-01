@@ -94,11 +94,11 @@ const battleBoard = {
   }
 };
 
-let myBoard = battleBoard;
-myBoard.initBoard();
-myBoard.print();
-console.log(myBoard.validateMove('B3'));
-console.log(myBoard.validateMove('K3'));
+// let myBoard = battleBoard;
+// myBoard.initBoard();
+// myBoard.print();
+// console.log(myBoard.validateMove('B3'));
+// console.log(myBoard.validateMove('K3'));
 
 /// let userInput = "";
 /// let userInputOk = false;
